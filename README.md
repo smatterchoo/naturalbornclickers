@@ -12,4 +12,13 @@ When one user hits 50 clicks, the game ends for everyone and the server must be 
 
 <img src="clickers-won.png" alt="Screenshot" width="400"/>
 
-This was created as a pedagogical example of using python as a webserver and handling events from html / javascript.
+### Provenance / Copyright / Warranty / Disclaimer
+
+This was created as a fun, small example to show students how to use python as a webserver, handling events from a web browser.
+
+Google Gemini 2.5 Pro (May 2025) produced the initial version, and I refactored and simplified.
+
+The code is free to use, and in the public domain. No warranty is expressed or implied.
+
+Many best practices, including for security, were sacrificed for pedagogical clarity.  This code should not be used as the basis for any serious projects.
+
