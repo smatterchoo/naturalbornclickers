@@ -6,6 +6,6 @@ They'll be assigned a user name and they'll be able to see other users who have 
 There is no mechanism to sync the start time, so it works best if one user does a countdown to start everyone.
 Any given user's webpage will show their progress versus everyone else.
 When one user hits 50 clicks, the game ends for everyone and the server must be restarted.
-![App screenshot](assets/screenshot.png)
+![App screenshot](clickers-won.png)
 
 This was created as a pedagogical example of using python as a webserver and handling events from html / javascript.
