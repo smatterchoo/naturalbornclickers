@@ -10,6 +10,6 @@ There is no mechanism to sync the start time, so it works best if one user does 
 Any given user's webpage will show their progress versus everyone else.
 When one user hits 50 clicks, the game ends for everyone and the server must be restarted.
 
-![App screenshot](clickers-won.png)
+<img src="clickers-won.png" alt="Screenshot" width="400"/>
 
 This was created as a pedagogical example of using python as a webserver and handling events from html / javascript.
